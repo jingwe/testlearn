@@ -6,3 +6,5 @@ git track chang
 Creating a new branch is quick
 
 im master
+
+nihao wojiaojing
